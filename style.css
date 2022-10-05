@@ -1,0 +1,17 @@
+body {
+  color: darkolivegreen;
+  /* background-color: black; */
+  text-align: center;
+  background-image: url("https://blog.hubspot.com/hubfs/image8-2.jpg");
+}
+#search {
+  font-size: 30px;
+}
+a {
+  font-size: 35px;
+  background-color: gray;
+  color: gold;
+}
+h1 {
+  font-size: 40px;
+}
